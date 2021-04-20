@@ -7,5 +7,5 @@ policy "less-than-10-month" {
 }
 
 policy "restrict-ec2-instance-type" {
-  enforcement_level = "soft mandatory"
+  enforcement_level = "soft-mandatory"
 }
